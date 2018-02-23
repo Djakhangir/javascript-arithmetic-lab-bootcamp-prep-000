@@ -1,4 +1,3 @@
 function add(number) {
- 
-  console.log(add)
+ return(number + number)
 }
