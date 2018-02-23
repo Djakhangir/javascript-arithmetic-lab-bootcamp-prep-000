@@ -11,6 +11,6 @@ function multiply (a, b) {
 function divide (a, b) {
   return (a/b)
 }
-function inc(5) {
+function inc(a) {
   return (5++);
 }
