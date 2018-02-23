@@ -1,4 +1,4 @@
-function add() {
+function add(number) {
  
   console.log(add)
 }
