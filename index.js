@@ -1,3 +1,3 @@
-function add(5) {
- return(5 + 5)
+function add('5') {
+ return('5' + '5')
 }
